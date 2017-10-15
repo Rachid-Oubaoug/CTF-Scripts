@@ -4,7 +4,7 @@
  </head>
  <body>
 
-<form action='salthash.php' method="GET">
+<form action='hash.php' method="GET">
 URL:<br>
 <input type="text" name="url">
 <br>
