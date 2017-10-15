@@ -4,7 +4,7 @@
  </head>
  <body>
 
-<form action='hash.php' method="GET">
+<form action='Hash.php' method="GET">
 URL:<br>
 <input type="text" name="url">
 <br>
