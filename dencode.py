@@ -1,4 +1,5 @@
 import base64, sys, binascii, urllib
+#Encode & decode : BASE64 - BASE32 - BASE16/HEX - BINARY - ATOM128 - MEGAN35- HAZZ15 - ZONG22 - URL - ASCII
 
 if len(sys.argv) != 3:
 	sys.stderr.write('Usage ./dencode.py -e or -d string \n')
